@@ -1,7 +1,7 @@
 
 # Hospital Management System
 
-This project is a Python implementation of a Hospital Management System, inspired by the provided C# code. The system includes functionality to manage hospital employees and ensure data integrity by checking for unique usernames and validating input data.
+This project is a Python implementation of a Hospital Management System. The system includes functionality to manage hospital employees and ensure data integrity by checking for unique usernames and validating input data.
 
 ## Project Structure
 
